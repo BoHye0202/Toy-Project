@@ -11,5 +11,13 @@
 ### GOAL:
 예측: 다음 시즌에 어떤 타자를 선발할까?
 
-## 3. Autonomous Driving
+## 3. 
+### Motivate:
+### GOAL:
+
+## 4. Autonomous Driving
 ### 차선인식 & 주변환경 인식
+
+## 5. 감정에 따른 음악추천 서비스
+### Motivate:
+### GOAL:
